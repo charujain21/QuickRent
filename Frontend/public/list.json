@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "city": "Agra",
+        "location": "Taj Ganj",
+        "price": 2500,
+        "rating": "★★★★☆",
+        "image": "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?cs=srgb&dl=pexels-binyamin-mellish-186077.jpg&fm=jpg",
+        "button": "Book Now",
+        "category": "Home"
+    },
+    {
+        "id": 2,
+        "city": "Agra",
+        "location": "Sadar Bazaar",
+        "price": 3000,
+        "rating": "★★★☆☆",
+        "image": "https://img.staticmb.com/mbcontent/images/uploads/2022/12/Most-Beautiful-House-in-the-World.jpg",
+        "button": "Book Now",
+        "category": "Home"
+    },
+    {
+        "id": 3,
+        "city": "Agra",
+        "location": "Shahganj",
+        "price": 4500,
+        "rating": "★★★★★",
+        "image": "https://th.bing.com/th/id/OIP.o3LH1GU1WTwsCNxMKbL4cAHaE7?w=626&h=417&rs=1&pid=ImgDetMain",
+        "button": "Book Now",
+        "category": "Home"
+    },
+    {
+        "id": 4,
+        "city": "Agra",
+        "location": "M.G. Road",
+        "price": 3500,
+        "rating": "★★★★☆",
+        "image": "https://th.bing.com/th/id/OIP.ODPK_ozynOpbrcfxNbGVXwHaEV?w=800&h=468&rs=1&pid=ImgDetMain",
+        "button": "Book Now",
+        "category": "Home"
+    },
+    {
+        "id": 5,
+        "city": "Agra",
+        "location": "Pratap Pura",
+        "price": 2000,
+        "rating": "★★★☆☆",
+        "image": "https://th.bing.com/th/id/OIP.YwYxgszCKToNukng2VwqigHaEc?w=700&h=420&rs=1&pid=ImgDetMain",
+        "button": "Book Now",
+        "category": "Home"
+    },
+    {
+        "id": 6,
+        "city": "Agra",
+        "location": "Fatehabad Road",
+        "price": 5000,
+        "rating": "★★★★★",
+        "image": "https://th.bing.com/th/id/OIP.IOaJEmzntb2LeDJG30Q89AHaDt?rs=1&pid=ImgDetMain",
+        "button": "Book Now",
+        "category": "Home"
+    },
+    {
+        "id": 7,
+        "city": "Agra",
+        "location": "Sikandra",
+        "price": 4000,
+        "rating": "★★★★☆",
+        "image": "https://www.thespruce.com/thmb/GtlHim5EsWERYoVi62TnWpu6JTA=/5472x3648/filters:fill(auto,1)/GettyImages-9261821821-5c69c1b7c9e77c0001675a49.jpg",
+        "button": "Book Now",
+        "category": "Home"
+    },
+    {
+        "id": 8,
+        "city": "Agra",
+        "location": "Taj Road",
+        "price": 2700,
+        "rating": "★★★★☆",
+        "image": "https://th.bing.com/th/id/OIP.uEt7i6L6n9R68CktXUtU5AHaHa?w=1024&h=1024&rs=1&pid=ImgDetMain",
+        "button": "Book Now",
+        "category": "Home"
+    },
+    {
+        "id": 9,
+        "city": "Agra",
+        "location": "Shamshabad Road",
+        "price": 3300,
+        "rating": "★★★★☆",
+        "image": "https://i.pinimg.com/originals/e8/71/a9/e871a900cd0cda1c11bb450165b9b02e.jpg",
+        "button": "Book Now",
+        "category": "Home"
+    },
+    {
+        "id": 10,
+        "city": "Agra",
+        "location": "Rambagh",
+        "price": 4500,
+        "rating": "★★★★★",
+        "image": "https://i.pinimg.com/originals/3c/5f/ac/3c5facf94a5450c47217fc0037e42ccf.jpg",
+        "button": "Book Now",
+        "category": "Home"
+    },
+    {
+        "id": 11,
+        "city": "Agra",
+        "location": "Akbar's Tomb",
+        "price": 3000,
+        "rating": "★★★★☆",
+        "image": "https://i.pinimg.com/originals/3c/5f/ac/3c5facf94a5450c47217fc0037e42ccf.jpg",
+        "button": "Book Now",
+        "category": "Home"
+    },
+    {
+        "id": 12,
+        "city": "Agra",
+        "location": "Raja Ki Mandi",
+        "price": 3700,
+        "rating": "★★★★★",
+        "image": "https://i.pinimg.com/originals/3c/5f/ac/3c5facf94a5450c47217fc0037e42ccf.jpg",
+        "button": "Book Now",
+        "category": "Home"
+    },
+    {
+        "id": 13,
+        "city": "Agra",
+        "location": "Dayalbagh",
+        "price": 2300,
+        "rating": "★★★★☆",
+        "image": "https://i.pinimg.com/originals/3c/5f/ac/3c5facf94a5450c47217fc0037e42ccf.jpg",
+        "button": "Book Now",
+        "category": "Home"
+    },
+    {
+        "id": 14,
+        "city": "Agra",
+        "location": "Gwalior Road",
+        "price": 4000,
+        "rating": "★★★★★",
+        "image": "https://th.bing.com/th/id/OIP.IOaJEmzntb2LeDJG30Q89AHaDt?rs=1&pid=ImgDetMain",
+        "button": "Book Now",
+        "category": "Home"
+    },
+    {
+        "id": 15,
+        "city": "Agra",
+        "location": "Vikramshila",
+        "price": 3200,
+        "rating": "★★★★☆",
+        "image": "https://th.bing.com/th/id/OIP.IOaJEmzntb2LeDJG30Q89AHaDt?rs=1&pid=ImgDetMain",
+        "button": "Book Now",
+        "category": "Home"
+    },
+    {
+        "id": 16,
+        "city": "Agra",
+        "location": "Mathura Road",
+        "price": 2800,
+        "rating": "★★★☆☆",
+        "image": "https://th.bing.com/th/id/OIP.udV-5OPJalDZaqN1xFgT-QHaE8?rs=1&pid=ImgDetMain",
+        "button": "Book Now",
+        "category": "Home"
+    },
+    {
+        "id": 17,
+        "city": "Agra",
+        "location": "New City Center",
+        "price": 5500,
+        "rating": "★★★★☆",
+        "image": "https://www.bhg.com/thmb/GtlHim5EsWERYoVi62TnWpu6JTA=/5472x3648/filters:fill(auto,1)/GettyImages-9261821821-5c69c1b7c9e77c0001675a49.jpg",
+        "button": "Book Now",
+        "category": "Office"
+    },
+    {
+        "id": 18,
+        "city": "Agra",
+        "location": "Shahganj",
+        "price": 8000,
+        "rating": "★★★★★",
+        "image": "https://th.bing.com/th/id/OIP.udV-5OPJalDZaqN1xFgT-QHaE8?rs=1&pid=ImgDetMain",
+        "button": "Book Now",
+        "category": "Office"
+    },
+    {
+        "id": 19,
+        "city": "Agra",
+        "location": "Sikandra",
+        "price": 6500,
+        "rating": "★★★★☆",
+        "image": "https://i.pinimg.com/736x/f6/76/83/f67683a97bbf32189d6724a19ba39cee.jpg",
+        "button": "Book Now",
+        "category": "Office"
+    },
+    {
+        "id": 20,
+        "city": "Agra",
+        "location": "MG Road",
+        "price": 9000,
+        "rating": "★★★★★",
+        "image": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2020/11/shutterstock_551810083-1.jpg",
+        "button": "Book Now",
+        "category": "Office"
+    }
+]
